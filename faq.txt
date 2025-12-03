@@ -1,93 +1,25 @@
-About the Team
-Where is the team based?
- Our team is distributed across the U.S., Singapore, Vietnam, and Thailand — a true Web3-native setup.
- More detailed team information will be shared soon. Stay tuned by following our updates!
-Where can I find fundraising information?
- Our $2.1M pre-seed round was recently announced. You can read more in this article:
- 👉 The Block - ARO Network Raises $2.1M
-Are tokenomics available?
- Tokenomics will be announced later — stay tuned!
- However, we can share that 5% of the total token supply is allocated for all Jade distributions to the community before TGE.
-(2025/7/31)
-
-
-
-About Nodes
-Can one IP support multiple nodes?
-Yes, one IP can support multiple nodes. Just make sure your upload speed can handle it. Rewards depend on bandwidth and performance. An ARO Pod supports up to 100 Mbps, and you can run more if your network allows. 
-Why hasn’t my ARO Lite node earned anything after running for an hour?
- Rewards are calculated hourly.
- If your network is stable, you should start seeing rewards within 1–2 hours.
- However, if your network frequently disconnects or changes IP, rewards may be delayed.
-Why am I online, but my node shows low rewards?
- At this stage, we're only using a small fraction of your bandwidth to test network connectivity.
- Current rewards displayed are virtual and not final — they're for reference only.
-Which port is the ARO Client listening to?
- (We’ll update documentation with this soon — please check back.)
-My node doesn’t show up / says "not added" — what should I do?
- If you're using a mobile browser with extensions, it may not be supported.
- We’re working on support for this — stay tuned!
-Is there a tutorial for running the ARO Client node?
- Yes! You can find the full guide here:
- 👉 ARO Docs – Software Setup
-How can I add more nodes?
- Node rewards depend on the bandwidth of each connection.
- If you can provide different networks (e.g., separate IPs or ISPs), you can deploy multiple nodes and bind them to your account.
- All active nodes will show up in your dashboard.
-Does adding more nodes increase my Jade and points?
-During the Previewnet phase, ordering multiple ARO Pods under a single account will earn you more Jades.
-For running ARO Client or ARO Lite, tasks are only counted once per account no matter how many instances you run, you’ll only receive Jades once per node type.
-For future phases like Testnet, rewards will scale with the bandwidth and quality of your contribution.
-Open ports for different nodes?
-The explanations of open ports for ARO Lite/ARO Pod and ARO Link/ARO Client have each been added as a corresponding FAQ at the end of their respective User Guides. https://docs.aro.network/user-guides/software-setup
-(2025/7/31)
- Why can't I connect to ARO Lite on my phone?
-Please note that our ARO Lite is currently not fully optimized for mobile browsers. For the best experience, we recommend accessing it via desktop for now. We’re actively working on mobile compatibility and will notify the community as soon as it’s ready.
-How to install node in my MAC/Windows/Linux?
-ARO Client is a software image designed for X86 architectures, and this tutorial focuses on a Linux environment.  You would need a virtual machine environment: https://docs.aro.network/user-guides/software-setup/
-One of our community members has made one, you can use it as a reference: https://youtu.be/JDxlfBEEvIE
-Lite node disconnection
-If you encounter connection issues with ARO Lite, please try removing the current plugin and reinstalling the latest version 0.0.4 to ensure the best experience.
-Or Go to Browser → Extensions, find ARO Lite, and toggle the switch in the bottom right corner off and on — this action should reconnect it.
-
-Why is there so much difference between node lite and node pro?
-Very limited impact on your internet experiences for lite node
-
-
-About Jade
-What is the Redeem Code for, and when will I get one?
- Redeem codes will be used in future campaigns and special events.
- Stay tuned — they’ll be released soon!
-(2025/7/31)
-Is there a limit to how much Jade you can earn per day?
-There isn’t an exact number right now because it depends on your referrer. For example, if someone wants to buy 10 pods, they would earn a lot of Jade, or if they referred 1,000 people.
-
-After manually downloaded the latest version 0.0.6 it produce a new serial number, what will happen to the old serial number that had accumulated jades?
-The PreviewJade shown in any node is virtual and not actual mining rewards. Real mining will only begin once the Testnet starts. The old data where Jade was accumulated still exists, but please remember it is virtual.
-
-Others
-How can I earn rewards for content contributions?
- We’ll be launching various community activities and content creation contests very soon — with Jade rewards!
- The first campaign may go live as early as next week. Don’t miss it!
-(2025/7/31)
-I live in Uzbekistan and wanted to order an ARO device, but there is no delivery to this country. What should I do?
-Sorry, due to varying business demands, some regions don’t have open channels to purchase ARO Pods. I suggest you start by running the ARO Client first.
-
-
-
-New Questions
-About hiring
-​​Hi, thanks for reaching out!
-At the moment, we're not actively hiring. However, we’ll be considering future applicants primarily from our community of Aronauts.
-If that interests you, feel free to join our community, stay active, and keep an eye out for any announcements regarding community moderator or ambassador roles.
-Thanks again for your interest in ARO Network!
-
-Paid Influencers service
-Could you please share more details about your campaign packages, including pricing and examples of previous collaborations? Actually at the moment, we’re not actively looking for influencer partnerships. However, we are currently running a campaign specifically designed for KOLs.
-If you’re able to drive user sign-ups through your promotion, you’ll be ranked among other participants—and the top performer will receive a $10,000 reward along with an exclusive opportunity to join our community round. https://medium.com/aronetwork/aro-previewnet-referral-sprint-af3453526b37
-
-Listing
-We haven’t had our TGE yet, but thank you for asking!
-
-Pre-order a Aro Pod and no Confirmation
-All users who place an order will receive a confirmation email. If you have made the payment but did not receive the email, please submit a ticket with your email address, payment screenshot, and transaction hash so we can assist you.
+Where is the team based? | Our team is distributed across the U.S., Singapore, Vietnam, and Thailand — a true Web3-native setup. More detailed team information will be shared soon. Stay tuned by following our updates! | 
+Where can I find fundraising information? | Our $2.1M pre-seed round was recently announced. You can read more in this article: The Block - ARO Network Raises $2.1M | 
+Are tokenomics available? | Tokenomics will be announced later — stay tuned! However, 5% of the total token supply is allocated for all Jade distributions to the community before TGE. | 
+Can one IP support multiple nodes? | Yes, one IP can support multiple nodes. Ensure your upload speed can handle it. Rewards depend on bandwidth and performance. An ARO Pod supports up to 100 Mbps. | 
+Why hasn’t my ARO Lite node earned anything after running for an hour? | Rewards are calculated hourly. If your network is stable, you should start seeing rewards within 1–2 hours. Frequent disconnects or IP changes may delay rewards. | 
+Why am I online, but my node shows low rewards? | Only a small fraction of your bandwidth is used to test network connectivity. Current rewards displayed are virtual and for reference only. | 
+Which port is the ARO Client listening to? | Documentation will be updated soon — please check back. | 
+My node doesn’t show up / says "not added" — what should I do? | Mobile browsers with extensions may not be supported. Support is in progress — stay tuned! | 
+Is there a tutorial for running the ARO Client node? | Yes! You can find the full guide here: ARO Docs – Software Setup | https://docs.aro.network/user-guides/software-setup
+How can I add more nodes? | Node rewards depend on bandwidth. Multiple networks (separate IPs or ISPs) can deploy multiple nodes bound to your account. | 
+Does adding more nodes increase my Jade and points? | During Previewnet, multiple ARO Pods under one account earn more Jades. Future phases: rewards scale with bandwidth and contribution quality. | 
+Open ports for different nodes? | Explanations for ARO Lite/Pod and ARO Link/Client open ports are in their User Guides. | https://docs.aro.network/user-guides/software-setup
+Why can't I connect to ARO Lite on my phone? | ARO Lite is not fully optimized for mobile browsers. Use desktop for best experience. Mobile compatibility is in progress. | 
+How to install node in my MAC/Windows/Linux? | ARO Client is for X86 architectures; focus on Linux. Use a virtual machine: https://docs.aro.network/user-guides/software-setup/ Community tutorial reference: https://youtu.be/JDxlfBEEvIE | https://docs.aro.network/user-guides/software-setup/
+Lite node disconnection | Remove the current plugin and reinstall latest version 0.0.4. Browser → Extensions → toggle ARO Lite off/on to reconnect. | 
+Why is there so much difference between node lite and node pro? | Very limited impact on your internet experience for lite node. | 
+What is the Redeem Code for, and when will I get one? | Redeem codes will be used in future campaigns and events. They’ll be released soon. | 
+Is there a limit to how much Jade you can earn per day? | Depends on referrers. Example: buying 10 pods earns more Jade, referring 1,000 people earns more. | 
+After manually downloading version 0.0.6, what happens to old serial number with accumulated Jades? | PreviewJade is virtual. Old data exists but only real mining starts at Testnet. | 
+How can I earn rewards for content contributions? | Community activities and content contests will reward Jade. First campaign may go live soon. | 
+I live in Uzbekistan and wanted to order an ARO device, but there is no delivery. What should I do? | Some regions don’t have open channels to purchase ARO Pods. Start by running the ARO Client first. | 
+About hiring | Currently not actively hiring. Future applicants may be considered from Aronauts community. Stay active and watch for announcements. | 
+Paid Influencers service | Not actively seeking influencer partnerships. Campaign for KOLs: drive sign-ups, top performer gets $10,000 + community round. | https://medium.com/aronetwork/aro-previewnet-referral-sprint-af3453526b37
+Listing | TGE has not occurred yet. Thank you for asking! | 
+Pre-order a ARO Pod and no Confirmation | All users placing orders receive confirmation emails. If payment completed but no email, submit a ticket with email, payment screenshot, and transaction hash. | 
