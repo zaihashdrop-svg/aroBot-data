@@ -98,8 +98,7 @@
   "pre-order a aro pod and no confirmation": {
     "answer": "All users who place an order will receive a confirmation email. If payment was made but no email received, submit a ticket with email, payment screenshot, and transaction hash.",
     "link": null
-  }
-  {
+  },
   "what is ARO Network?": {
     "answer": "ARO Network is a decentralized edge cloud built for the AI‑First Internet. It lets anyone contribute idle bandwidth, compute, or storage to power a global distributed edge cloud that supports content delivery and AI workloads.﻿",
     "link": "https://docs.aro.network/aro-network/aro-overview/"
