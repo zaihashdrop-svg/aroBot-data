@@ -172,5 +172,11 @@
         "username": "zai_hash",
         "question": "my node has error agent internal error",
         "timestamp": "2025-12-05T18:43:32.747678"
+    },
+    {
+        "discord_id": "762314921413181440",
+        "username": "zai_hash",
+        "question": "pcdn client not found",
+        "timestamp": "2025-12-05T18:45:44.429106"
     }
 ]
