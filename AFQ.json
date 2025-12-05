@@ -203,7 +203,6 @@
     "answer": "The earlier phase was Previewnet — used to onboard early contributors and bootstrap the network before actual Testnet launch.",
     "link": "https://docs.aro.network/campaign-hub/aro-testnet/"
   },
- 6,
   "what happens after Testnet?": {
     "answer": "Next step is Mainnet launch — when the real, production-grade decentralized edge cloud goes live, and $ARO tokens become the main utility token in the ecosystem.",
     "link": "https://docs.aro.network/campaign-hub/aro-testnet/"
@@ -228,68 +227,4 @@
     "answer": "No. ARO uses idle bandwidth and resources, minimizing impact on your daily internet usage.",
     "link": "https://docs.aro.network/user-guides/run-node/"
   },
-  "is high internet bandwidth required to run a node effectively?": {
-    "answer": "Higher bandwidth and a stable internet connection improve your rewards and performance, but ARO supports a range of node types — from lightweight to more robust — so even moderate connections may work.",
-    "link": "https://docs.aro.network/user-guides/run-node/"
-  },
-  "what is the difference between ARO Pod, ARO Client, and ARO Lite?": {
-    "answer": "ARO Pod is a plug-and-play hardware device optimized for always-on operation; ARO Client is software you install on a server/PC for more flexible setups; ARO Lite is a lightweight browser extension requiring minimal setup and resources.",
-    "link": "https://docs.aro.network/user-guides/run-node/"
-  },
-  "is there a plan for a WiFi-router node option?": {
-    "answer": "Yes — the planned ARO Link is a router with built-in ARO node functionality, intended for business or high-throughput use cases.",
-    "link": "https://docs.aro.network/user-guides/run-node/"
-  },
-  "how can I track/manage my node and rewards?": {
-    "answer": "Through the ARO Dashboard — where you create an account, view/manage your nodes, track resource contribution, referral links, and claim rewards.",
-    "link": "https://docs.aro.network/user-guides/run-node/"
-  },
-  "is there a referral program?": {
-    "answer": "Yes. During Testnet, you can refer friends; if they join and contribute, you may earn extra bonuses/commissions on Jade rewards.",
-    "link": "https://docs.aro.network/campaign-hub/aro-testnet/"
-  },
-  "what are Badges in ARO Testnet?": {
-    "answer": "Badges are non-transferable rewards for community or ecosystem contributions beyond node operation — such as referrals, community activities, content creation — rewarding broader participation.",
-    "link": "https://docs.aro.network/campaign-hub/aro-testnet/"
-  },
-  "will Jade and Badges have value after Testnet?": {
-    "answer": "Yes. Jade (and potentially Badges) are used to qualify for token allocation after the Testnet ends: for example, 5% of total $ARO token supply is reserved for pre-TGE contributors.",
-    "link": "https://docs.aro.network/campaign-hub/aro-testnet/"
-  },
-  "does ARO aim to compete with existing CDNs/data centers?": {
-    "answer": "Yes. By using decentralized edge resources and crypto-native incentive mechanisms, ARO aims to offer a scalable, cost-effective, and global alternative to traditional CDNs or centralized data centers.",
-    "link": "https://docs.aro.network/edge-cloud-guide/edge-cloud-solutions/"
-  },
-  "is prior infrastructure required to host a node (e.g. server rack)?": {
-    "answer": "Not necessarily. ARO supports lightweight nodes using home devices or even a browser extension; no need for dedicated servers.",
-    "link": "https://docs.aro.network/technologies/network/"
-  },
-  "how is fairness ensured when distributing rewards?": {
-    "answer": "Through cross-validation by Keeper Nodes, randomized challenge protocols, and a transparent on-chain ledger tracking workloads — reducing potential for cheating or manipulation.",
-    "link": "https://docs.aro.network/technologies/network/"
-  },
-  "if the network grows large, does ARO scale?": {
-    "answer": "Yes — ARO is designed as a hyperscale decentralized edge cloud, aggregating resources from many participants to meet large demand for content delivery and AI workloads.",
-    "link": "https://docs.aro.network/aro-network/aro-overview/"
-  },
-  "what are the next major milestones for ARO Network?": {
-    "answer": "After Testnet, ARO plans a Mainnet launch, broader node expansion, support for enterprise customers, rollout of SDKs/APIs for developers, and open governance.",
-    "link": "https://docs.aro.network/campaign-hub/aro-testnet/"
-  },
-  "can I contribute even with minimal hardware/internet (e.g. home PC)?": {
-    "answer": "Yes — lighter options like ARO Lite (browser extension) or ARO Client on your PC make participation possible even without dedicated hardware.",
-    "link": "https://docs.aro.network/user-guides/run-node/"
-  },
-  "what kinds of workloads can ARO support at the edge?": {
-    "answer": "From simple content delivery (streaming, files) to AI workloads requiring compute and storage — e.g. real-time inference, AI models, data analytics near the user.",
-    "link": "https://docs.aro.network/edge-cloud-guide/edge-cloud-solutions/"
-  },
-  "is there a public repository for ARO’s code or docs?": {
-    "answer": "Yes — ARO’s public repositories (e.g. docs, website, explorer) are hosted publicly.",
-    "link": "https://github.com/aro-network"
-  },
-  "what happens if I misbehave or node fails to meet requirements?": {
-    "answer": "Misbehaving nodes or invalid work reports can be penalized (e.g. via slashing), and contributions may be rejected or rewards withheld, to maintain network integrity.",
-    "link": "https://docs.aro.network/aro-tokenomics/tokenomics/"
-  }
-}
+  "
