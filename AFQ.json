@@ -56,7 +56,7 @@
     "link": "https://docs.aro.network/user-guides/software-setup"
   },
   "lite node disconnection": {
-    "answer": "If you encounter connection issues with ARO Lite, remove the current plugin and reinstall version 0.0.4 (or latest). Or go to Browser → Extensions, find ARO Lite, toggle the switch off and on to reconnect.",
+    "answer": "If you encounter connection issues with ARO Lite, remove the current plugin and reinstall version 0.2.6 (or latest). Or go to Browser → Extensions, find ARO Lite, toggle the switch off and on to reconnect.",
     "link": "https://docs.aro.network/user-guides/software-setup"
   },
   "why is there so much difference between node lite and node pro?": {
