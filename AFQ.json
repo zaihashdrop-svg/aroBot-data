@@ -226,5 +226,4 @@
   "does running an ARO node interfere with my regular internet usage?": {
     "answer": "No. ARO uses idle bandwidth and resources, minimizing impact on your daily internet usage.",
     "link": "https://docs.aro.network/user-guides/run-node/"
-  },
-  "
+  }
