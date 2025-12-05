@@ -290,5 +290,61 @@
   "what happens if I misbehave or node fails to meet requirements?": {
     "answer": "Misbehaving nodes or invalid work reports can be penalized (e.g. via slashing), and contributions may be rejected or rewards withheld, to maintain network integrity.",
     "link": "https://docs.aro.network/aro-tokenomics/tokenomics/"
+  },
+  "This Agent version is not supported / Outdated Agent version detected": {
+    "answer": "The issue arises from an outdated version of the Agent software in your ARO Client. Ensure your node is connected to the internet and allow time for automatic updates. If the problem continues to exist, ask official channels for help.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "Restricted Region Detected!": {
+    "answer": "Your node is operating in a restricted region according to legal restrictions. This may result in the cancellation of your rewards. See Terms of Use for more details.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "PCDN Client program not found": {
+    "answer": "You need to install a PCDN Worker client to run PCDN services on your ARO Client. Refer to PCDN Worker tutorials for instructions.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "ARO Client goes offline when Debian system auto‑sleeps": {
+    "answer": "If your Debian system enters sleep mode, network connectivity suspends. Configure your power settings to prevent auto‑sleep for stable node operation.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "Agent internal error": {
+    "answer": "There is an internal error in the node agent. Provide your node's Serial Number and contact technical support or community channels.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "Incorrect PCDN Worker Network Mode": {
+    "answer": "PCDN Worker client is running in incorrect network mode. Follow PCDN Worker Tutorial - configure bridge and network interface settings correctly.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "PCDN Worker launch failed": {
+    "answer": "Try restarting the ARO Client node and check if the error persists. If it does, contact technical support.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "Management Port is not open": {
+    "answer": "PCDN Worker requires port 8080 (management port) to be open and exposed. Enable port 8080 as per the PCDN Worker installation instructions.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "Invalid CPU config for PCDN Worker": {
+    "answer": "This error indicates invalid CPU config — usually because too many CPU cores are allocated to PCDN Worker VM while bandwidth is < 1 Gbps. Allocate less than 7 CPU cores, wait ~10 minutes and check again.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "PCDN Worker is not connected": {
+    "answer": "The PCDN Worker client VM is not connected (even if ARO Client/host machine is connected). Likely misconfigured network interface; carefully follow the PCDN Worker network configuration tutorial.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "PCDN Worker is not activated": {
+    "answer": "This error indicates that the PCDN Worker is not activated for edge‑cloud services. If your ARO Client is activated but this persists, try reinstalling the PCDN Worker or contact support.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "Disk configuration is invalid": {
+    "answer": "Disk configuration (system disk vs data disk separation) for the PCDN Worker is invalid. Update disk configuration according to the installation guide.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "Insufficient disk space for PCDN Worker": {
+    "answer": "Error caused by allocating too little disk space. For nodes >1 Gbps bandwidth, you need at least 200 GB system disk and 1 TB data disk(s).",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "What network ports should be open?": {
+    "answer": "Inbound: UDP all ports; TCP 80, 443, 9500–9700. Outbound: UDP 40001–40100; TCP 443, 30002, 40001–40100.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
   }
 }
