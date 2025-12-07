@@ -1,0 +1,52 @@
+[
+  {
+    "Q": "System Requirements",
+    "A": "The system requirements for running an ARO Node include updated CPU, sufficient RAM, and fast storage.",
+    "link": "https://docs.aro.network/node"
+  },
+  {
+    "Q": "How long does initial sync take?",
+    "A": "Depending on your hardware and network speed, initial sync can take several hours.",
+    "link": "https://docs.aro.network/node"
+  },
+  {
+    "Q": "Can I migrate my node from one machine to another?",
+    "A": "Yes, you can migrate by backing up your data directory and restoring it on the new machine.",
+    "link": "https://docs.aro.network/node"
+  },
+  {
+    "Q": "Ways to check node health",
+    "A": "You can check the node health using CLI commands or by checking logs.",
+    "link": "https://docs.aro.network/node"
+  },
+  {
+    "Q": "How often should I update the node?",
+    "A": "Updates are released periodically; it is recommended to update as soon as possible.",
+    "link": "https://docs.aro.network/node"
+  },
+  {
+    "Q": "Pod stuck in CrashLoopBackOff",
+    "A": "This usually indicates configuration or resource issues. Review logs to determine the cause.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-pod/aro-pod-faq-troubleshooting"
+  },
+  {
+    "Q": "Pod ImagePullBackOff error",
+    "A": "The node cannot pull the required container image. Check your network and container registry access.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-pod/aro-pod-faq-troubleshooting"
+  },
+  {
+    "Q": "How to restart a pod?",
+    "A": "You can restart the pod using kubectl commands.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-pod/aro-pod-faq-troubleshooting"
+  },
+  {
+    "Q": "ARO Lite not syncing",
+    "A": "Ensure your device meets requirements and verify your internet connection.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-lite/aro-lite-faq-troubleshooting"
+  },
+  {
+    "Q": "Common Lite issues",
+    "A": "ARO Lite may encounter startup or syncing issues depending on storage and bandwidth limitations.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-lite/aro-lite-faq-troubleshooting"
+  }
+]
