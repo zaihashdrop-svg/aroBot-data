@@ -370,5 +370,11 @@
         "question": "if my node has errro agent internal error whats the possible problem",
         "timestamp": "2025-12-08T21:32:30.949153",
         "question_type": "general"
+    },
+    {
+        "discord_id": "762314921413181440",
+        "username": "zai_hash",
+        "question": "types of nodes",
+        "timestamp": "2025-12-08T21:36:36.029943"
     }
 ]
