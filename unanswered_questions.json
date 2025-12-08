@@ -328,5 +328,12 @@
         "username": "allisron",
         "question": "Is today's Sprint One Wagmi event over?",
         "timestamp": "2025-12-08T14:40:37.224259"
+    },
+    {
+        "discord_id": "762314921413181440",
+        "username": "zai_hash",
+        "question": "aro network is partnered by blockrock ?",
+        "timestamp": "2025-12-08T21:29:25.148192",
+        "question_type": "partnership"
     }
 ]
