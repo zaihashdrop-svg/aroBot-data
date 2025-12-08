@@ -349,5 +349,12 @@
         "question": "whats node can we run",
         "timestamp": "2025-12-08T21:30:09.594294",
         "question_type": "general"
+    },
+    {
+        "discord_id": "762314921413181440",
+        "username": "zai_hash",
+        "question": "types of node",
+        "timestamp": "2025-12-08T21:30:21.983083",
+        "question_type": "general"
     }
 ]
