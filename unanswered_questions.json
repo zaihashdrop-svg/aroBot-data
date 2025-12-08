@@ -342,5 +342,12 @@
         "question": "how many node are available on aro network ?",
         "timestamp": "2025-12-08T21:29:47.065168",
         "question_type": "technical"
+    },
+    {
+        "discord_id": "762314921413181440",
+        "username": "zai_hash",
+        "question": "whats node can we run",
+        "timestamp": "2025-12-08T21:30:09.594294",
+        "question_type": "general"
     }
 ]
