@@ -346,5 +346,85 @@
   "What network ports should be open?": {
     "answer": "Inbound: UDP all ports; TCP 80, 443, 9500–9700. Outbound: UDP 40001–40100; TCP 443, 30002, 40001–40100.",
     "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'This Agent version is not supported.' or 'Outdated Agent version detected.' (ARO Client)": {
+    "answer": "The issue arises from an outdated version of the Agent software in your ARO Client. Ensure your node is connected to the internet and allow time for automatic updates. If the problem continues to exist, ask official channels for help.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'Restricted Region Detected!' (ARO Client)": {
+    "answer": "This is because we have detected that your node is operating in a restricted region, according to certain legal restrictions. This may result in the cancellation of your rewards. For more details on restricted regions, please refer to our Terms of Use.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'PCDN Client program not found.'": {
+    "answer": "You need to install a PCDN Worker client to run PCDN services on your ARO Client. See PCDN Worker tutorials for more information.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My ARO Client goes offline when the Debian system turns to auto sleep.": {
+    "answer": "This could happen if you have not appropriately configured the power settings on your Debian system. Refer to the recommended Debian settings for tutorials.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'Agent internal error' (ARO Client)": {
+    "answer": "There is an internal error in the node agent. Please provide your node's Serial Number and ask for technical support from community channels (e.g. Official Discord).",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'Incorrect PCDN Worker Network Mode'": {
+    "answer": "This is because your PCDN Worker client is running in incorrect Network Mode. To resolve this problem, please follow PCDN Worker Tutorial - 2.2 Configure Bridge, and then follow PCDN Worker Tutorial - 3.2 Configure Network Interface to make sure you have correctly configured your network bridge and set network mode.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'PCDN Worker launch failed.'": {
+    "answer": "Try restarting the ARO Client node and check if the error still exists. Ask for technical support if the error still exists.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'Management Port is not open.'": {
+    "answer": "This is because your PCDN Worker requires Port 8080 (the 'management port') to be open and exposed while running. To enable Port 8080, please refer to PCDN Worker Installation Tutorial -> Part 3.5 and follow instructions.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'Invalid CPU config for PCDN Worker.'": {
+    "answer": "This is an Err_PCDNClientCPUConfigInvalid error which indicates invalid CPU config (usually because of excessive CPU cores are allocated for your PCDN Worker client in the VM, if your bandwidth is less than 1 Gbps). In this case, allocate less than 7 CPU cores for your PCDN Worker. You can edit the CPU cores allocated to the PCDN Worker client in the VM basic info configurations -> edit vCPU. After configuration has been done, kindly wait for about 10 minutes and check if the error still exists.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'PCDN Worker is not connected.'": {
+    "answer": "This is an Err_PCDNClientNetworkDisconnected error which indicates that your PCDN Worker client is not connected (while your ARO Client or your host machine is connected to ARO Network). Usually this is because you have not correctly configured the network connection for your PCDN Worker client. Please strictly follow the tutorial - network configuration for PCDN Worker and check if the error still exists.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'PCDN Worker is not activated.'": {
+    "answer": "This is an Err_PCDNClientNotActivated error which indicates that your PCDN Worker client is not activated for serving the edge cloud. If your ARO Client has been successfully activated (which means you can find your ARO Client node on the ARO Dashboard) but this error still exists, you can try reinstalling the PCDN Worker, or ask for technical support from official channels.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'Auto-sleep detected on host machine.'": {
+    "answer": "We have detected that your host machine OS has inappropriate sleep settings. This may lead to auto-sleep of your node. Follow the Auto-sleep settings tutorial and update your settings.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'Disk configuration is invalid.'": {
+    "answer": "Something is wrong with your disk configuration on the PCDN Worker-- normally caused by invalid setting of the System Disk and the Data Disks. You are required to separate the System Disk and the Data Disks when you are setting up the PCDN Worker. If you do not meet the requirements, please follow PCDN Installation Tutorial and update the disk configuration.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'Insufficient disk space for PCDN Worker.'": {
+    "answer": "This error is caused by not allocating enough disk space to the PCDN Worker. If you are running a node with more than 1 Gbps bandwidth, you need to configure at least 200 GB for the System Disk, and 1 TB for the Data Disk(s). If you do not meet the requirements, please follow PCDN Installation Tutorial and update the disk configuration.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "What network ports should be open? (ARO Client)": {
+    "answer": "To ensure proper connectivity and performance, please configure your firewall to allow the following inbound and outbound ports:\nInbound Ports: UDP: All ports; TCP: 80, 443, 9500–9700\nOutbound Ports: UDP: 40001–40100; TCP: 443, 30002, 40001–40100.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'Node key lost, press 'Restore' button to resume.' (ARO Pod)": {
+    "answer": "The issue stems from an accidentally omitted key on your node. Locate the 'Restore' button in the upper-right corner of the Node Detail page to reinstate the key. The ARO Pod will return to operational status shortly.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-pod/aro-pod-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'This Agent version is not supported.' or 'Outdated Agent version detected.' (ARO Pod)": {
+    "answer": "The issue arises from an outdated version of the Agent software in your ARO Pod. Ensure your ARO Pod is connected to the internet and allow time for automatic updates. Restarting the ARO Pod may resolve the issue in some cases.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-pod/aro-pod-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'Restricted Region Detected!' (ARO Pod)": {
+    "answer": "This is because we have detected that your node is operating in a restricted region, according to certain legal restrictions. This may result in the cancellation of your rewards. For more details on restricted regions, please refer to our Terms of Use.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-pod/aro-pod-faq-troubleshooting"
+  },
+  "My Dashboard->Node Detail page shows error message: 'Agent internal error' (ARO Pod)": {
+    "answer": "There is an internal error in the node agent. Please provide your node's Serial Number and consult the technical support team from community channels (e.g. Official Discord).",
+    "link": "https://docs.aro.network/node-operator-guide/aro-pod/aro-pod-faq-troubleshooting"
+  },
+  "What network ports should be open? (ARO Pod)": {
+    "answer": "To ensure proper connectivity and performance, please configure your firewall to allow the following inbound and outbound ports:\nInbound Ports: UDP: All ports; TCP: 80, 443, 9500–9700\nOutbound Ports: UDP: 40001–40100; TCP: 443, 30002, 40001–40100.",
+    "link": "https://docs.aro.network/node-operator-guide/aro-pod/aro-pod-faq-troubleshooting"
   }
 }
