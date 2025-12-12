@@ -426,5 +426,97 @@
   "What network ports should be open? (ARO Pod)": {
     "answer": "To ensure proper connectivity and performance, please configure your firewall to allow the following inbound and outbound ports:\nInbound Ports: UDP: All ports; TCP: 80, 443, 9500–9700\nOutbound Ports: UDP: 40001–40100; TCP: 443, 30002, 40001–40100.",
     "link": "https://docs.aro.network/node-operator-guide/aro-pod/aro-pod-faq-troubleshooting"
+  },
+  "Will Jade rewards create inflation?": {
+    "answer": "No. Jade rewards convert to $ARO post-TGE. Jade is capped at 5% of total supply, no inflation risk.",
+    "link": null
+  },
+  "How does ARO address regional compliance like GDPR or India’s rules?": {
+    "answer": "We only open deployments in compliant regions. Current active markets include Southeast Asia, Japan, Saudi Arabia, Russia, Turkey, Brazil, Mexico, and more.",
+    "link": null
+  },
+  "What’s the Jade-to-$ARO process?": {
+    "answer": "Jade-to-$ARO conversion will only open after TGE and mainnet launch. Ratios will be announced at that time. Jade does not carry a long-term lockup; some Jade distributed today is 'Locked Jade,' but these will gradually unlock during the Testnet phase.",
+    "link": null
+  },
+  "What sets ARO apart from other DePIN projects?": {
+    "answer": "Real-world traction. ARO isn’t just a vision — we’ve shipped, we’re scaling, and we’re integrating with ISPs and Web2 platforms today.",
+    "link": null
+  },
+  "Is there a 'mining boost' feature?": {
+    "answer": "There is no single 'boost button.' Mining performance depends on node type, uptime, hardware, and internet stability. The system is designed for fairness and transparency rather than artificial acceleration.",
+    "link": null
+  },
+  "Can ARO support AI workloads better than cloud giants?": {
+    "answer": "Yes. ARO’s decentralized edge reduces latency and improves response times for AI inference, IoT, and real-time delivery.",
+    "link": null
+  },
+  "Is ARO Pod supply limited?": {
+    "answer": "No. Production scales with demand.",
+    "link": null
+  },
+  "How else can the community contribute?": {
+    "answer": "Create content, run translations, refer others, or join the upcoming Ambassador Program.",
+    "link": null
+  },
+  "Could ARO evolve into a decentralized CDN for gaming, streaming, or IoT?": {
+    "answer": "Yes, this is part of our long-term vision. ARO is evolving into a decentralized CDN and edge cloud that powers real-time gaming, streaming, IoT, and AI applications.",
+    "link": null
+  },
+  "What key milestones must ARO hit before moving from Testnet to Mainnet?": {
+    "answer": "The transition is expected to take about 6 months, depending on milestones such as network capacity, node density, and ecosystem growth.",
+    "link": null
+  },
+  "What is the estimated daily Jade reward for 500Mbps-1Gbps bandwidth?": {
+    "answer": "There is no fixed answer, as rewards depend primarily on node type and network contribution: A single ARO Pod supports a maximum bandwidth of 100Mbps, and users with high bandwidth can maximize earnings by running multiple units at the same location; ARO Client can fully utilize bandwidth through hardware advantages. Additionally, factors such as node contribution ratio and NAT type configuration (detailed optimization guides available in documentation) directly impact rewards. Reasonable configuration reduces network friction and improves performance.",
+    "link": null
+  },
+  "How to increase user adoption next year? How can the community participate?": {
+    "answer": "The team will expand user scale by forging partnerships with multiple Web3 ecosystems (already collaborated with Base, Eigen Layer, and more to be added), and optimizing node operation experience to lower entry barriers. Community users can participate by referring new users (earn mining reward shares), joining the Wagmi campaign, or connecting potential partners such as mines and data centers to support network expansion.",
+    "link": null
+  },
+  "Will a mobile version (e.g., Android ARO Lite) be launched to add Jade earning methods?": {
+    "answer": "There are no plans for mobile development in the near term, but users can earn additional Jade through multiple channels: follow official social media updates, check the ARO Dashboard, and participate in various social activities and exclusive campaigns to not miss out on benefits.",
+    "link": null
+  },
+  "How to ensure network scalability, node stability, and fair reward distribution during the testnet-to-mainnet transition?": {
+    "answer": "The team attaches great importance to these three core aspects even in the testnet phase, optimizing node performance and network connectivity by launching a new PCDN and providing NAT configuration tutorials. The reward distribution mechanism is transparent: Edge node rewards are mainly based on processed traffic and data volume, while Lite node rewards depend on network connection stability (e.g., uptime, latency, packet loss rate). Detailed rules can be found in the 'Node Performance' section of the documentation.",
+    "link": null
+  },
+  "What are the team’s short-term KPIs?": {
+    "answer": "Within the next two weeks, the team aims to achieve 1Tbps bandwidth capacity, and sprint for 1–3Tbps within the next two quarters. The core focus is on building network bandwidth capabilities to provide stable data transmission services for partners and clients, while monitoring network health indicators to avoid issues such as node disconnections and performance fluctuations.",
+    "link": null
+  },
+  "What are the core strategies for community expansion and long-term retention?": {
+    "answer": "Centered around 'ecosystem collaboration + community co-creation + incentive system': Continue to form partnerships with strategically aligned projects, build a close community feedback loop (e.g., recently implemented the community request to 'change social media accounts linked to the dashboard'), and improve the badge system. Users can earn badges by participating in community activities and providing feedback, which will serve as community contribution certifications to unlock more benefits in the future.",
+    "link": null
+  },
+  "When will there be local hardware distributors in the Philippines?": {
+    "answer": "Currently, the team has hardware warehouses in Thailand and Vietnam, and Philippine users can try to obtain hardware from neighboring countries. Due to customs clearance, transportation costs, and other issues, local distribution channels in the Philippines have not been opened yet, but the team is actively advancing relevant matters. At the same time, community users are encouraged to connect with existing hardware holders in the community to share resources. Distributors in Thailand also plan to attempt shipping to the Philippines, and subsequent progress will be notified through official channels.",
+    "link": null
+  },
+  "After mainnet launch, will node mining tokens or points? Are Lite Nodes/Edge Nodes eligible?": {
+    "answer": "All participating nodes during the testnet phase will receive Jade points, which will be converted to ARO tokens via a specific formula after mainnet launch; during the mainnet phase, both Edge Node and Lite Node operators can earn ARO tokens through network contributions.",
+    "link": null
+  },
+  "What is the core value of Jade points and badges?": {
+    "answer": "Jade points are not only mining rewards but also a direct reflection of node network contributions (e.g., quantifiable indicators such as bandwidth and uptime); badges are used to certify the non-quantifiable value of community users (e.g., content creation, product feedback, community promotion). More complex badges will be launched in the future to distinguish user experience and professionalism, unlocking more ecosystem benefits.",
+    "link": null
+  },
+  "What are ARO Network’s core advantages compared to other edge networks?": {
+    "answer": "Focusing on distributed cloud service needs in the AI era, it emphasizes 'speed, low cost, and intelligence': Providing edge node solutions for scenarios with high response speed requirements such as video streaming, AR/VR, and AI applications, it has a cost advantage over traditional cloud services like AWS and Google. The team emphasizes that the project focuses on 'building tangible value' rather than hype, and has achieved revenue, which will be promoted globally with the transparency of Web3 and blockchain.",
+    "link": null
+  },
+  "What are the long-term profit advantages of PCDN Worker?": {
+    "answer": "Bandwidth contribution tracking has started in the mainnet phase, and nodes providing actual bandwidth will receive more Jade rewards than those not running; geographical factors also affect earnings, with nodes in regions such as Southeast Asia receiving relatively higher rewards.",
+    "link": null
+  },
+  "How can users in Ethiopia obtain hardware tax-free?": {
+    "answer": "The team cannot solve tax issues in various countries for the time being. It is recommended to prioritize using ARO Client (which can be run on local workstations) at this stage; more hardware distribution channels will be expanded in the future, and users can also reduce acquisition costs by group purchasing through the community or connecting local resources.",
+    "link": null
+  },
+  "What is the origin of the name 'ARO'?": {
+    "answer": "'A' stands for 'Autonomous', focusing on 'resource orchestration' — in the future, it will integrate various scarce resources such as bandwidth and data, providing services for scenarios such as CDN, AI training, and data crawling through a distributed network, with all processes transparently verifiable based on blockchain.",
+    "link": null
   }
 }
