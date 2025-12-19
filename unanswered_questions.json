@@ -790,5 +790,11 @@
         "username": "projectsentinelx",
         "question": "Before that, make sure your configuration storage lv_data mounting to the right place /data, look at aro doc OS installation.",
         "timestamp": "2025-12-19T23:09:26.823992"
+    },
+    {
+        "discord_id": "1417029133887864842",
+        "username": "tum0899",
+        "question": "Just completing the first step of the PDCN Walker is enough, right?",
+        "timestamp": "2025-12-19T23:14:18.351009"
     }
 ]
