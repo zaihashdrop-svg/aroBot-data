@@ -15,7 +15,7 @@
     "answer": "Yes, one IP can support multiple nodes. Just make sure your upload speed can handle it. Rewards depend on bandwidth and performance. An ARO Pod supports up to 100 Mbps, and you can run more if your network allows.",
     "link": "https://docs.aro.network/user-guides/software-setup"
   },
-  "why hasn’t my aro lite node earned anything after running for an hour?": {
+  "why hasn't my aro lite node earned anything after running for an hour?": {
     "answer": "Rewards are calculated hourly. If your network is stable, you should start seeing rewards within 1–2 hours. If your network frequently disconnects or changes IP, rewards may be delayed.",
     "link": "https://docs.aro.network/user-guides/software-setup"
   },
@@ -24,11 +24,11 @@
     "link": "https://docs.aro.network/user-guides/software-setup"
   },
   "which port is the aro client listening to?": {
-    "answer": "We’ll update documentation with this soon — please check back.",
+    "answer": "We'll update documentation with this soon — please check back.",
     "link": "https://docs.aro.network/user-guides/software-setup"
   },
-  "my node doesn’t show up / says 'not added' — what should i do?": {
-    "answer": "If you're using a mobile browser with extensions, it may not be supported. We’re working on support for this — stay tuned!",
+  "my node doesn't show up / says 'not added' — what should i do?": {
+    "answer": "If you're using a mobile browser with extensions, it may not be supported. We're working on support for this — stay tuned!",
     "link": "https://docs.aro.network/user-guides/software-setup"
   },
   "is there a tutorial for running the aro client node?": {
@@ -64,11 +64,11 @@
     "link": "https://docs.aro.network/user-guides/software-setup"
   },
   "what is the redeem code for, and when will i get one?": {
-    "answer": "Redeem codes will be used in future campaigns and special events. They’ll be released soon!",
+    "answer": "Redeem codes will be used in future campaigns and special events. They'll be released soon!",
     "link": null
   },
   "is there a limit to how much jade you can earn per day?": {
-    "answer": "There isn’t an exact number right now because it depends on your referrer and setup. Example: buying 10 pods or referring 1,000 people affects daily Jade earned.",
+    "answer": "There isn't an exact number right now because it depends on your referrer and setup. Example: buying 10 pods or referring 1,000 people affects daily Jade earned.",
     "link": null
   },
   "after manually downloading the latest version 0.0.6 it produces a new serial number, what will happen to the old serial number that had accumulated jades?": {
@@ -76,15 +76,15 @@
     "link": null
   },
   "how can i earn rewards for content contributions?": {
-    "answer": "We’ll be launching various community activities and content creation contests soon — with Jade rewards. The first campaign may go live as early as next week.",
+    "answer": "We'll be launching various community activities and content creation contests soon — with Jade rewards. The first campaign may go live as early as next week.",
     "link": null
   },
   "i live in uzbekistan and wanted to order an aro device, but there is no delivery to this country. what should i do?": {
-    "answer": "Sorry, some regions don’t have open channels to purchase ARO Pods. Start by running the ARO Client first.",
+    "answer": "Sorry, some regions don't have open channels to purchase ARO Pods. Start by running the ARO Client first.",
     "link": null
   },
   "about hiring": {
-    "answer": "Hi, thanks for reaching out! At the moment, we're not actively hiring. We’ll consider future applicants from our community of Aronauts. Stay active in the community and watch for announcements.",
+    "answer": "Hi, thanks for reaching out! At the moment, we're not actively hiring. We'll consider future applicants from our community of Aronauts. Stay active in the community and watch for announcements.",
     "link": null
   },
   "paid influencers service": {
@@ -92,7 +92,7 @@
     "link": "https://medium.com/aronetwork/aro-previewnet-referral-sprint-af3453526b37"
   },
   "listing": {
-    "answer": "We haven’t had our TGE yet, but thank you for asking! Stay tuned for official announcements.",
+    "answer": "We haven't had our TGE yet, but thank you for asking! Stay tuned for official announcements.",
     "link": null
   },
   "pre-order a aro pod and no confirmation": {
@@ -116,7 +116,7 @@
     "link": "https://docs.aro.network/user-guides/run-node/"
   },
   "do I need permission to join and run a node?": {
-    "answer": "No. ARO Network is permissionless — you don’t need special approval or qualifications to participate.",
+    "answer": "No. ARO Network is permissionless — you don't need special approval or qualifications to participate.",
     "link": "https://docs.aro.network/user-guides/run-node/"
   },
   "what does an Edge Node contribute to the network?": {
@@ -131,7 +131,7 @@
     "answer": "Keeper Nodes act as validators and guardians of the network. They maintain consensus, validate workloads and work reports from Edge Nodes, perform random checks and challenges, and record global state on-chain.",
     "link": "https://docs.aro.network/technologies/network/"
   },
-  "how does ARO’s blockchain fit into the system?": {
+  "how does ARO's blockchain fit into the system?": {
     "answer": "ARO uses an EVM-based blockchain as a public ledger to store global state: track workloads, compute and distribute rewards, manage payments & orders, and support on-chain governance.",
     "link": "https://docs.aro.network/technologies/network/"
   },
@@ -144,11 +144,11 @@
     "link": "https://docs.aro.network/technologies/network/"
   },
   "what happens if I join from a region with low demand?": {
-    "answer": "Technically you can still join anywhere — but performance and potential rewards are higher if there’s demand in your region. Proximity to users matters for optimal results.",
+    "answer": "Technically you can still join anywhere — but performance and potential rewards are higher if there's demand in your region. Proximity to users matters for optimal results.",
     "link": "https://docs.aro.network/user-guides/run-node/"
   },
   "how are contributions rewarded in ARO Network?": {
-    "answer": "Resource providers (Edge Nodes) receive rewards for their contributions based on validated workloads. Rewards are distributed in the network’s native token.",
+    "answer": "Resource providers (Edge Nodes) receive rewards for their contributions based on validated workloads. Rewards are distributed in the network's native token.",
     "link": "https://docs.aro.network/edge-node/rewards"
   },
   "what is the native token of ARO Network?": {
@@ -171,12 +171,12 @@
     "answer": "Yes — the tokenomics are defined, detailing token utilities like payments, incentives, staking, and governance.",
     "link": "https://docs.aro.network/aro-tokenomics/tokenomics/"
   },
-  "what kinds of clients (users) can benefit from ARO’s edge cloud?": {
+  "what kinds of clients (users) can benefit from ARO's edge cloud?": {
     "answer": "Enterprises, streaming platforms, e-commerce sites, gaming services, AI & IoT businesses — any service needing scalable, low-latency content delivery or edge-based compute.",
     "link": "https://docs.aro.network/edge-cloud-guide/edge-cloud-solutions/"
   },
-  "what is PCDN in ARO’s context?": {
-    "answer": "PCDN stands for Peer-to-Peer Content Delivery Network. It’s one of ARO’s offerings — a decentralized CDN leveraging distributed edge nodes to deliver content closer to users.",
+  "what is PCDN in ARO's context?": {
+    "answer": "PCDN stands for Peer-to-Peer Content Delivery Network. It's one of ARO's offerings — a decentralized CDN leveraging distributed edge nodes to deliver content closer to users.",
     "link": "https://docs.aro.network/edge-cloud-guide/edge-cloud-solutions/"
   },
   "what is AiDN?": {
@@ -188,14 +188,14 @@
     "link": "https://docs.aro.network/edge-cloud-guide/edge-cloud-solutions/"
   },
   "are 3rd-party developers supported on ARO now?": {
-    "answer": "Not yet. While ARO’s architecture anticipates SDKs and APIs for third-party developers, these are still under development.",
+    "answer": "Not yet. While ARO's architecture anticipates SDKs and APIs for third-party developers, these are still under development.",
     "link": "https://docs.aro.network/developer-guide/overview"
   },
   "what will 3rd-party developers be able to build on ARO Network?": {
-    "answer": "Developers will be able to build things like P2P CDNs, edge-based AI applications (AI transformer components), content delivery platforms, and other services leveraging ARO’s distributed edge infrastructure.",
+    "answer": "Developers will be able to build things like P2P CDNs, edge-based AI applications (AI transformer components), content delivery platforms, and other services leveraging ARO's distributed edge infrastructure.",
     "link": "https://docs.aro.network/developer-guide/overview"
   },
-  "what’s the current stage of ARO (as of now)?": {
+  "what's the current stage of ARO (as of now)?": {
     "answer": "ARO is currently in the Testnet phase (after Previewnet), where the network is live for resource testing, onboarding nodes, and reward distribution under test settings.",
     "link": "https://docs.aro.network/campaign-hub/aro-testnet/"
   },
@@ -208,11 +208,11 @@
     "link": "https://docs.aro.network/campaign-hub/aro-testnet/"
   },
   "what is the reward system during Testnet?": {
-    "answer": "During Testnet, contributors earn rewards in the form of ‘Jade’ points (for resource contributions) and ‘Badges’ (for community/contributor activities). Jade is convertible to $ARO at TGE (token generation event).",
+    "answer": "During Testnet, contributors earn rewards in the form of 'Jade' points (for resource contributions) and 'Badges' (for community/contributor activities). Jade is convertible to $ARO at TGE (token generation event).",
     "link": "https://docs.aro.network/campaign-hub/aro-testnet/"
   },
   "how is Jade computed during Testnet?": {
-    "answer": "Jade is awarded based on each node’s validated workload: bandwidth, uptime, resource usage, etc. The system tracks node performance, then distributes a daily Jade emission pool across all participating nodes.",
+    "answer": "Jade is awarded based on each node's validated workload: bandwidth, uptime, resource usage, etc. The system tracks node performance, then distributes a daily Jade emission pool across all participating nodes.",
     "link": "https://docs.aro.network/campaign-hub/aro-testnet/"
   },
   "are there different Jade pools for different node types?": {
@@ -283,8 +283,8 @@
     "answer": "From simple content delivery (streaming, files) to AI workloads requiring compute and storage — e.g. real-time inference, AI models, data analytics near the user.",
     "link": "https://docs.aro.network/edge-cloud-guide/edge-cloud-solutions/"
   },
-  "is there a public repository for ARO’s code or docs?": {
-    "answer": "Yes — ARO’s public repositories (e.g. docs, website, explorer) are hosted publicly.",
+  "is there a public repository for ARO's code or docs?": {
+    "answer": "Yes — ARO's public repositories (e.g. docs, website, explorer) are hosted publicly.",
     "link": "https://github.com/aro-network"
   },
   "what happens if I misbehave or node fails to meet requirements?": {
@@ -303,8 +303,8 @@
     "answer": "You need to install a PCDN Worker client to run PCDN services on your ARO Client. Refer to PCDN Worker tutorials for instructions.",
     "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
   },
-  "ARO Client goes offline when Debian system auto‑sleeps": {
-    "answer": "If your Debian system enters sleep mode, network connectivity suspends. Configure your power settings to prevent auto‑sleep for stable node operation.",
+  "ARO Client goes offline when Debian system auto-sleeps": {
+    "answer": "If your Debian system enters sleep mode, network connectivity suspends. Configure your power settings to prevent auto-sleep for stable node operation.",
     "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
   },
   "Agent internal error": {
@@ -324,7 +324,7 @@
     "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
   },
   "Invalid CPU config for PCDN Worker": {
-    "answer": "This error indicates invalid CPU config — usually because too many CPU cores are allocated to PCDN Worker VM while bandwidth is < 1 Gbps. Allocate less than 7 CPU cores, wait ~10 minutes and check again.",
+    "answer": "This error indicates invalid CPU config — usually because too many CPU cores are allocated to PCDN Worker VM while bandwidth is < 1 Gbps. Allocate less than 7 CPU cores, wait ~10 minutes and check again.",
     "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
   },
   "PCDN Worker is not connected": {
@@ -332,7 +332,7 @@
     "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
   },
   "PCDN Worker is not activated": {
-    "answer": "This error indicates that the PCDN Worker is not activated for edge‑cloud services. If your ARO Client is activated but this persists, try reinstalling the PCDN Worker or contact support.",
+    "answer": "This error indicates that the PCDN Worker is not activated for edge-cloud services. If your ARO Client is activated but this persists, try reinstalling the PCDN Worker or contact support.",
     "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
   },
   "Disk configuration is invalid": {
@@ -340,7 +340,7 @@
     "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
   },
   "Insufficient disk space for PCDN Worker": {
-    "answer": "Error caused by allocating too little disk space. For nodes >1 Gbps bandwidth, you need at least 200 GB system disk and 1 TB data disk(s).",
+    "answer": "Error caused by allocating too little disk space. For nodes >1 Gbps bandwidth, you need at least 200 GB system disk and 1 TB data disk(s).",
     "link": "https://docs.aro.network/node-operator-guide/aro-client/aro-client-faq-troubleshooting"
   },
   "What network ports should be open?": {
@@ -431,16 +431,16 @@
     "answer": "No. Jade rewards convert to $ARO post-TGE. Jade is capped at 5% of total supply, no inflation risk.",
     "link": null
   },
-  "How does ARO address regional compliance like GDPR or India’s rules?": {
+  "How does ARO address regional compliance like GDPR or India's rules?": {
     "answer": "We only open deployments in compliant regions. Current active markets include Southeast Asia, Japan, Saudi Arabia, Russia, Turkey, Brazil, Mexico, and more.",
     "link": null
   },
-  "What’s the Jade-to-$ARO process?": {
+  "What's the Jade-to-$ARO process?": {
     "answer": "Jade-to-$ARO conversion will only open after TGE and mainnet launch. Ratios will be announced at that time. Jade does not carry a long-term lockup; some Jade distributed today is 'Locked Jade,' but these will gradually unlock during the Testnet phase.",
     "link": null
   },
   "What sets ARO apart from other DePIN projects?": {
-    "answer": "Real-world traction. ARO isn’t just a vision — we’ve shipped, we’re scaling, and we’re integrating with ISPs and Web2 platforms today.",
+    "answer": "Real-world traction. ARO isn't just a vision — we've shipped, we're scaling, and we're integrating with ISPs and Web2 platforms today.",
     "link": null
   },
   "Is there a 'mining boost' feature?": {
@@ -448,7 +448,7 @@
     "link": null
   },
   "Can ARO support AI workloads better than cloud giants?": {
-    "answer": "Yes. ARO’s decentralized edge reduces latency and improves response times for AI inference, IoT, and real-time delivery.",
+    "answer": "Yes. ARO's decentralized edge reduces latency and improves response times for AI inference, IoT, and real-time delivery.",
     "link": null
   },
   "Is ARO Pod supply limited?": {
@@ -483,7 +483,7 @@
     "answer": "The team attaches great importance to these three core aspects even in the testnet phase, optimizing node performance and network connectivity by launching a new PCDN and providing NAT configuration tutorials. The reward distribution mechanism is transparent: Edge node rewards are mainly based on processed traffic and data volume, while Lite node rewards depend on network connection stability (e.g., uptime, latency, packet loss rate). Detailed rules can be found in the 'Node Performance' section of the documentation.",
     "link": null
   },
-  "What are the team’s short-term KPIs?": {
+  "What are the team's short-term KPIs?": {
     "answer": "Within the next two weeks, the team aims to achieve 1Tbps bandwidth capacity, and sprint for 1–3Tbps within the next two quarters. The core focus is on building network bandwidth capabilities to provide stable data transmission services for partners and clients, while monitoring network health indicators to avoid issues such as node disconnections and performance fluctuations.",
     "link": null
   },
@@ -503,7 +503,7 @@
     "answer": "Jade points are not only mining rewards but also a direct reflection of node network contributions (e.g., quantifiable indicators such as bandwidth and uptime); badges are used to certify the non-quantifiable value of community users (e.g., content creation, product feedback, community promotion). More complex badges will be launched in the future to distinguish user experience and professionalism, unlocking more ecosystem benefits.",
     "link": null
   },
-  "What are ARO Network’s core advantages compared to other edge networks?": {
+  "What are ARO Network's core advantages compared to other edge networks?": {
     "answer": "Focusing on distributed cloud service needs in the AI era, it emphasizes 'speed, low cost, and intelligence': Providing edge node solutions for scenarios with high response speed requirements such as video streaming, AR/VR, and AI applications, it has a cost advantage over traditional cloud services like AWS and Google. The team emphasizes that the project focuses on 'building tangible value' rather than hype, and has achieved revenue, which will be promoted globally with the transparency of Web3 and blockchain.",
     "link": null
   },
@@ -518,5 +518,49 @@
   "What is the origin of the name 'ARO'?": {
     "answer": "'A' stands for 'Autonomous', focusing on 'resource orchestration' — in the future, it will integrate various scarce resources such as bandwidth and data, providing services for scenarios such as CDN, AI training, and data crawling through a distributed network, with all processes transparently verifiable based on blockchain.",
     "link": null
+  },
+  "ARO Network Monthly Devlog — November 2025 FAQ": {
+    "general": {
+      "what is the purpose of the monthly devlog?": {
+        "answer": "The monthly devlog provides updates on ARO Network's technical progress, new features, and community initiatives, keeping users informed about the project's development.",
+        "link": null
+      },
+      "where can i try the ARO dashboard?": {
+        "answer": "You can try the improved and smoother ARO Dashboard at https://dashboard.aro.network/",
+        "link": "https://dashboard.aro.network/"
+      },
+      "what is the ARO network's mission?": {
+        "answer": "ARO Network aims to bridge the gap between centralized cloud systems and next-generation applications. It creates a globally-connected, decentralized edge cloud to empower an AI-driven world with fast, flexible infrastructure owned by its participants.",
+        "link": null
+      }
+    },
+    "technical_updates": {
+      "what is the super node acceleration program?": {
+        "answer": "It's a program launched to rapidly expand a high-performance, decentralized edge network to key global regions. It partners with local operators to build the next-generation internet backbone and lowers entry barriers by sharing mining rewards.",
+        "link": null
+      },
+      "what recent improvements were made to the dashboard and nodes?": {
+        "answer": "Recent improvements include optimized error handling for nodes, new anti-cheating mechanisms, enhanced ARO Lite node capacity to handle 100k+ concurrent requests, new user badges, stability improvements for PCDN Workers, and bug fixes for a smoother dashboard experience.",
+        "link": null
+      },
+      "what is the nat type detection and rating system?": {
+        "answer": "It's a live system that automatically detects and rates a node operator's NAT (Network Address Translation) type, helping them understand and optimize their network conditions. A better NAT type can help earn more Jade rewards in the future.",
+        "link": "https://docs.aro.network/node-operator-guide/improve-performance/network-optimization#what-is-nat"
+      }
+    },
+    "community_and_campaigns": {
+      "what is the testnet sprint #1 \"wagmi badge\" campaign?": {
+        "answer": "It's a time-limited community campaign with a $30,000 USDT prize pool. Users can earn the exclusive WAGMI badge by logging into the dashboard, sharing their referral link, and successfully inviting at least 3 friends to register, with all parties meeting the \"Active User\" criteria.",
+        "link": "https://x.com/AroNetwork/status/1981640682772238505"
+      },
+      "how many users have earned the wagmi badge so far?": {
+        "answer": "As of the end of November 2025, 1,647 users had earned the WAGMI badge.",
+        "link": null
+      },
+      "what are the new badges launched?": {
+        "answer": "The team has launched new badges including \"Trekker ARONAUT\" and others to better track and reward users for their effective contributions to the ARO Network.",
+        "link": null
+      }
+    }
   }
 }
