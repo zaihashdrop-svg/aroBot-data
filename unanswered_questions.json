@@ -994,5 +994,11 @@
         "username": "projectsentinelx",
         "question": "Before this case, upload volume you get more 25Mb mate ?",
         "timestamp": "2025-12-28T14:14:42.597732"
+    },
+    {
+        "discord_id": "531530821765693440",
+        "username": "sundeepgoel",
+        "question": "Hi, facing a strange issue on a new node and setting up. The ARO install went fine, however the S/N is blank. When i look at the network the gateway field is blank as well - although defined on the linux system and working fine. How do i resolve ?",
+        "timestamp": "2025-12-28T15:49:04.744050"
     }
 ]
