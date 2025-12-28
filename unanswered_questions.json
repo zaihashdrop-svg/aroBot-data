@@ -1000,5 +1000,11 @@
         "username": "sundeepgoel",
         "question": "Hi, facing a strange issue on a new node and setting up. The ARO install went fine, however the S/N is blank. When i look at the network the gateway field is blank as well - although defined on the linux system and working fine. How do i resolve ?",
         "timestamp": "2025-12-28T15:49:04.744050"
+    },
+    {
+        "discord_id": "531530821765693440",
+        "username": "sundeepgoel",
+        "question": "The installs on 2 other linux systems on the same network went fine - the system initialised and displayed the S/N immedaitely, the gateway field was correctly populated as well. What is the way to cehck debug logs of the ARO client on linux ?",
+        "timestamp": "2025-12-28T15:53:25.845630"
     }
 ]
