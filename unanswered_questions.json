@@ -1006,5 +1006,11 @@
         "username": "sundeepgoel",
         "question": "The installs on 2 other linux systems on the same network went fine - the system initialised and displayed the S/N immedaitely, the gateway field was correctly populated as well. What is the way to cehck debug logs of the ARO client on linux ?",
         "timestamp": "2025-12-28T15:53:25.845630"
+    },
+    {
+        "discord_id": "1379797829463179368",
+        "username": "kowit456_60926",
+        "question": "Why doesn't it come up?",
+        "timestamp": "2025-12-29T11:05:10.232343"
     }
 ]
