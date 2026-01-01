@@ -1054,5 +1054,11 @@
         "username": "mrluffy55",
         "question": "client or lite?",
         "timestamp": "2026-01-01T08:15:47.404879"
+    },
+    {
+        "discord_id": "543433402427375617",
+        "username": "mrluffy55",
+        "question": "What kind of IP are you using \u2014 public IP or NAT/CGNAT?",
+        "timestamp": "2026-01-01T10:16:54.818848"
     }
 ]
