@@ -1078,5 +1078,11 @@
         "username": "tum0899",
         "question": "I installed a client program on a machine with a Zen 6 core, 12 thread CPU, and I'm using a 1000/1000 Mbps upload internet connection. After 4 days, my upload speed is only 18 Mbps, which is very low. Is there a solution, or has anyone else experienced this problem?",
         "timestamp": "2026-01-03T04:46:43.417580"
+    },
+    {
+        "discord_id": "1417029133887864842",
+        "username": "tum0899",
+        "question": "What should I do next to resolve the initial problem?",
+        "timestamp": "2026-01-03T04:49:42.992134"
     }
 ]
