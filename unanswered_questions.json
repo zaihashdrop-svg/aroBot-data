@@ -1288,5 +1288,11 @@
         "username": "mrluffy55",
         "question": "<@1445201107675648011> LED indicator on pod",
         "timestamp": "2026-01-23T16:57:56.618443"
+    },
+    {
+        "discord_id": "1038053679154077766",
+        "username": "amelewa",
+        "question": "What error is it showing you when trying to connect?",
+        "timestamp": "2026-01-23T17:01:14.852303"
     }
 ]
