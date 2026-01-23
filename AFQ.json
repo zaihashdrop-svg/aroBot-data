@@ -560,6 +560,17 @@
       "what are the new badges launched?": {
         "answer": "The team has launched new badges including \"Trekker ARONAUT\" and others to better track and reward users for their effective contributions to the ARO Network.",
         "link": null
+      },
+       "promotions": {
+    "coupon_codes": {
+      "zai": {
+        "type": "promo_code",
+        "discount_amount": 5,
+        "discount_currency": "USD",
+        "discount_description": "Use coupon code ZAI to get $5 off.",
+        "promo_text": "-$5 USD discount applied with code ZAI",
+        "is_stackable": false,
+        "status": "active"
       }
     }
   }
