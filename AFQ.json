@@ -520,58 +520,47 @@
     "link": null
   },
   "ARO Network Monthly Devlog — November 2025 FAQ": {
-    "general": {
-      "what is the purpose of the monthly devlog?": {
-        "answer": "The monthly devlog provides updates on ARO Network's technical progress, new features, and community initiatives, keeping users informed about the project's development.",
-        "link": null
-      },
-      "where can i try the ARO dashboard?": {
-        "answer": "You can try the improved and smoother ARO Dashboard at https://dashboard.aro.network/",
-        "link": "https://dashboard.aro.network/"
-      },
-      "what is the ARO network's mission?": {
-        "answer": "ARO Network aims to bridge the gap between centralized cloud systems and next-generation applications. It creates a globally-connected, decentralized edge cloud to empower an AI-driven world with fast, flexible infrastructure owned by its participants.",
-        "link": null
-      }
-    },
-    "technical_updates": {
-      "what is the super node acceleration program?": {
-        "answer": "It's a program launched to rapidly expand a high-performance, decentralized edge network to key global regions. It partners with local operators to build the next-generation internet backbone and lowers entry barriers by sharing mining rewards.",
-        "link": null
-      },
-      "what recent improvements were made to the dashboard and nodes?": {
-        "answer": "Recent improvements include optimized error handling for nodes, new anti-cheating mechanisms, enhanced ARO Lite node capacity to handle 100k+ concurrent requests, new user badges, stability improvements for PCDN Workers, and bug fixes for a smoother dashboard experience.",
-        "link": null
-      },
-      "what is the nat type detection and rating system?": {
-        "answer": "It's a live system that automatically detects and rates a node operator's NAT (Network Address Translation) type, helping them understand and optimize their network conditions. A better NAT type can help earn more Jade rewards in the future.",
-        "link": "https://docs.aro.network/node-operator-guide/improve-performance/network-optimization#what-is-nat"
-      }
-    },
-    "community_and_campaigns": {
-      "what is the testnet sprint #1 \"wagmi badge\" campaign?": {
-        "answer": "It's a time-limited community campaign with a $30,000 USDT prize pool. Users can earn the exclusive WAGMI badge by logging into the dashboard, sharing their referral link, and successfully inviting at least 3 friends to register, with all parties meeting the \"Active User\" criteria.",
-        "link": "https://x.com/AroNetwork/status/1981640682772238505"
-      },
-      "how many users have earned the wagmi badge so far?": {
-        "answer": "As of the end of November 2025, 1,647 users had earned the WAGMI badge.",
-        "link": null
-      },
-      "what are the new badges launched?": {
-        "answer": "The team has launched new badges including \"Trekker ARONAUT\" and others to better track and reward users for their effective contributions to the ARO Network.",
-        "link": null
-      },
-       "promotions": {
-    "coupon_codes": {
-      "zai": {
-        "type": "promo_code",
-        "discount_amount": 5,
-        "discount_currency": "USD",
-        "discount_description": "Use coupon code ZAI to get $5 off.",
-        "promo_text": "-$5 USD discount applied with code ZAI",
-        "is_stackable": false,
-        "status": "active"
-      }
-    }
+    "answer": "The monthly devlog provides updates on ARO Network's technical progress, new features, and community initiatives, keeping users informed about the project's development.",
+    "link": null
+  },
+  "what is the purpose of the monthly devlog?": {
+    "answer": "The monthly devlog provides updates on ARO Network's technical progress, new features, and community initiatives, keeping users informed about the project's development.",
+    "link": null
+  },
+  "where can i try the ARO dashboard?": {
+    "answer": "You can try the improved and smoother ARO Dashboard at https://dashboard.aro.network/",
+    "link": "https://dashboard.aro.network/"
+  },
+  "what is the ARO network's mission?": {
+    "answer": "ARO Network aims to bridge the gap between centralized cloud systems and next-generation applications. It creates a globally-connected, decentralized edge cloud to empower an AI-driven world with fast, flexible infrastructure owned by its participants.",
+    "link": null
+  },
+  "what is the super node acceleration program?": {
+    "answer": "It's a program launched to rapidly expand a high-performance, decentralized edge network to key global regions. It partners with local operators to build the next-generation internet backbone and lowers entry barriers by sharing mining rewards.",
+    "link": null
+  },
+  "what recent improvements were made to the dashboard and nodes?": {
+    "answer": "Recent improvements include optimized error handling for nodes, new anti-cheating mechanisms, enhanced ARO Lite node capacity to handle 100k+ concurrent requests, new user badges, stability improvements for PCDN Workers, and bug fixes for a smoother dashboard experience.",
+    "link": null
+  },
+  "what is the nat type detection and rating system?": {
+    "answer": "It's a live system that automatically detects and rates a node operator's NAT (Network Address Translation) type, helping them understand and optimize their network conditions. A better NAT type can help earn more Jade rewards in the future.",
+    "link": "https://docs.aro.network/node-operator-guide/improve-performance/network-optimization#what-is-nat"
+  },
+  "what is the testnet sprint #1 \"wagmi badge\" campaign?": {
+    "answer": "It's a time-limited community campaign with a $30,000 USDT prize pool. Users can earn the exclusive WAGMI badge by logging into the dashboard, sharing their referral link, and successfully inviting at least 3 friends to register, with all parties meeting the \"Active User\" criteria.",
+    "link": "https://x.com/AroNetwork/status/1981640682772238505"
+  },
+  "how many users have earned the wagmi badge so far?": {
+    "answer": "As of the end of November 2025, 1,647 users had earned the WAGMI badge.",
+    "link": null
+  },
+  "what are the new badges launched?": {
+    "answer": "The team has launched new badges including \"Trekker ARONAUT\" and others to better track and reward users for their effective contributions to the ARO Network.",
+    "link": null
+  },
+  "coupon code zai": {
+    "answer": "Use coupon code ZAI to get $5 off when purchasing ARO hardware or services.",
+    "link": null
   }
 }
