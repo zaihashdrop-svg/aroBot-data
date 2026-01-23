@@ -1258,5 +1258,11 @@
         "username": "zai_hash",
         "question": "try to power off then on after 15 mins",
         "timestamp": "2026-01-23T06:41:27.261616"
+    },
+    {
+        "discord_id": "762314921413181440",
+        "username": "zai_hash",
+        "question": "how to turned on auto reply",
+        "timestamp": "2026-01-23T06:43:53.494940"
     }
 ]
