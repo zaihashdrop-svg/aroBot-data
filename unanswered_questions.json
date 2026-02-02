@@ -1462,5 +1462,11 @@
         "username": "tum0899",
         "question": "I changed my IP address from private to public, and my upload speed has dropped significantly. Is there anything I need to do to fix this?",
         "timestamp": "2026-02-02T03:09:37.229756"
+    },
+    {
+        "discord_id": "1417029133887864842",
+        "username": "tum0899",
+        "question": "Or do I have to wait for ARONET WORK to see my stable IP address before actually using it?",
+        "timestamp": "2026-02-02T03:11:58.415360"
     }
 ]
