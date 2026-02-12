@@ -1612,5 +1612,11 @@
         "username": "eyvle",
         "question": "Help with \" doesn't really set the configured settings in the system and will revert back to normal but \"cli guide\" does",
         "timestamp": "2026-02-11T14:38:47.543714"
+    },
+    {
+        "discord_id": "533920784591093761",
+        "username": "ace_dawn",
+        "question": "bro . my debian 13 trixie has a prob i think. when im turning off my monitor and then i will turn on it back,. my display is only black and got error \"NO DISPLAY\" how to fix that?",
+        "timestamp": "2026-02-12T07:29:14.319451"
     }
 ]
