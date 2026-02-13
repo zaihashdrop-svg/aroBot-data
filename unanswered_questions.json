@@ -1642,5 +1642,11 @@
         "username": "kashev",
         "question": "has anyone else experienced channels here been hidden without you doing it?",
         "timestamp": "2026-02-13T13:53:53.563948"
+    },
+    {
+        "discord_id": "305727150433239053",
+        "username": "devmonk",
+        "question": "But won't the second client interfere with the first one if it creates the same service agent and everything else? Is there a detailed guide on how to install a second client properly?",
+        "timestamp": "2026-02-13T20:29:57.539482"
     }
 ]
