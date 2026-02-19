@@ -1696,5 +1696,11 @@
         "username": "tum0899",
         "question": "If the upload fails, will restarting the device help?",
         "timestamp": "2026-02-16T09:32:33.579400"
+    },
+    {
+        "discord_id": "715238935047045161",
+        "username": "mxngacir",
+        "question": "any tutorial for installer on cli?",
+        "timestamp": "2026-02-19T18:28:06.813694"
     }
 ]
