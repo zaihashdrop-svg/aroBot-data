@@ -1714,5 +1714,11 @@
         "username": "arcnoy",
         "question": "GM!\n\nI have an ARO Pod connected to my router on LAN1, and it negotiates at 100 Mbps / Full Duplex.\n\nOn the same router, I have a MikroTik connected to LAN2, and it negotiates at 1000 Mbps / Full Duplex.\n\nI swapped the ports:\n- MikroTik on LAN1 \u2192 still shows 1000 Mbps / Full Duplex\n- ARO Pod on LAN2 \u2192 still shows 100 Mbps / Full Duplex\n\nI also swapped the LAN cables, but the ARO Pod continues to negotiate at 100 Mbps / Full Duplex.\n\nIs this expected behavior?",
         "timestamp": "2026-02-20T18:01:42.840784"
+    },
+    {
+        "discord_id": "958036085697564672",
+        "username": "kaljan01",
+        "question": "Help regarding: <@1387449858482507878> hello mate would recommend. You use the above link for live chat/support",
+        "timestamp": "2026-02-20T18:02:31.946408"
     }
 ]
